@@ -2,7 +2,7 @@
 
 ## Goal
 
-To guide an AI assistant in creating a detailed, step-by-step task list in Markdown format based on user requirements, feature requests, or existing documentation. The task list should guide a developer through implementation.
+To guide an AI assistant in creating a detailed, step-by-step task list in Markdown format based on user requirements, feature requests, or existing documentation. The task list should guide a developer using an AI assistant through implementation.
 
 ## Output
 
@@ -67,4 +67,4 @@ The process explicitly requires a pause after generating parent tasks to get use
 
 ## Target Audience
 
-Assume the primary reader of the task list is a **junior developer** who will implement the feature.
+Assume the primary reader of the task list is a developer using an AI assistant to implement the feature.
